@@ -1,0 +1,4 @@
+repository "AppleCProject@AppleC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
