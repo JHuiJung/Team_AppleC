@@ -1,4 +1,3 @@
-repository "AppleCProject@AppleC@cloud"
+rep "AppleCProject@AppleC@cloud"
   path "/"
-    smartbranch "/main" changeset "8"    
-     
+    smartbranch "/main/Prologue만들기/copy" changeset "60"             
